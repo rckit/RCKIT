@@ -6,6 +6,7 @@
 **/.release
 **/lib
 **/cjs
+**/packages
 
 **/node_modules
 **/.DS_Store
