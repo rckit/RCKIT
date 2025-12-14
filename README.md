@@ -1,6 +1,6 @@
 # 🎨 RCKIT – React Components Collection
 
-[![LSK logo](https://badgen.net/badge/icon/MADE%20BY%20LSK?icon=zeit&label&color=red&labelColor=red)](https://github.com/lskjs)
+[![LSK.js](https://github.com/lskjs/presets/raw/main/docs/badge.svg)](https://github.com/lskjs)
 [![NPM version](https://badgen.net/npm/v/@rckit/button)](https://www.npmjs.com/package/@rckit/button)
 [![NPM downloads](https://badgen.net/npm/dt/@rckit/button)](https://www.npmjs.com/package/@rckit/button)
 [![Package size](https://badgen.net/github/license/rckit/RCKIT)](https://github.com/rckit/RCKIT/blob/main/LICENSE)
