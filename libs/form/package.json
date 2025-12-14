@@ -1,7 +1,7 @@
 {
   "name": "@rckit/form",
   "version": "4.34.0",
-  "description": "LSK.js – nest auth – helpers for auth in Nest.js projects",
+  "description": "RCKIT – Form – React form components and hooks built on react-hook-form and react-bootstrap",
   "author": "Igor Suvorov <hi@isuvorov.com> (https://github.com/isuvorov)",
   "private": false,
   "scripts": {
@@ -65,9 +65,13 @@
     }
   ],
   "///": "//////////========================/////////========================/////////========================/////////",
-  "repository": "https://github.com/lskjs/lskjs/tree/master//libs-nest/nest-auth",
-  "homepage": "https://github.com/lskjs/lskjs/tree/master//libs/nest-auth",
-  "bugs": "https://github.com/lskjs/lskjs/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rckit/RCKIT.git",
+    "directory": "libs/form"
+  },
+  "homepage": "https://github.com/rckit/RCKIT/tree/master/libs/form",
+  "bugs": "https://github.com/rckit/RCKIT/issues",
   "license": "MIT",
   "publishConfig": {
     "access": "public",

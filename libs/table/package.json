@@ -1,7 +1,7 @@
 {
   "name": "@rckit/table",
   "version": "4.34.1",
-  "description": "LSK.js – nest auth – helpers for auth in Nest.js projects",
+  "description": "RCKIT – Table – React table component with sorting, pagination, search, and infinite scroll support",
   "author": "Igor Suvorov <hi@isuvorov.com> (https://github.com/isuvorov)",
   "private": false,
   "scripts": {
@@ -77,9 +77,13 @@
     }
   ],
   "///": "//////////========================/////////========================/////////========================/////////",
-  "repository": "https://github.com/lskjs/lskjs/tree/master//libs-nest/nest-auth",
-  "homepage": "https://github.com/lskjs/lskjs/tree/master//libs/nest-auth",
-  "bugs": "https://github.com/lskjs/lskjs/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rckit/RCKIT.git",
+    "directory": "libs/table"
+  },
+  "homepage": "https://github.com/rckit/RCKIT/tree/master/libs/table",
+  "bugs": "https://github.com/rckit/RCKIT/issues",
   "license": "MIT",
   "publishConfig": {
     "access": "public",

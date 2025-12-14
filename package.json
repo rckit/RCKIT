@@ -2,7 +2,7 @@
   "name": "@rckit/root",
   "version": "4.0.0",
   "type": "module",
-  "description": "RcKit - React componets collection for fast development of web applications",
+  "description": "RcKit - React components collection for fast development of web applications",
   "author": "Igor Suvorov <hi@isuvorov.com> (https://github.com/isuvorov)",
   "private": true,
   "scripts": {
@@ -33,9 +33,12 @@
     ]
   },
   "///": "//////////========================/////////========================/////////========================/////////",
-  "repository": "https://github.com/lskjs/rckit",
-  "homepage": "https://github.com/lskjs/rckit",
-  "bugs": "https://github.com/lskjs/rckit/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rckit/RCKIT.git"
+  },
+  "homepage": "https://github.com/rckit/RCKIT",
+  "bugs": "https://github.com/rckit/RCKIT/issues",
   "license": "MIT",
   "publishConfig": {
     "access": "restricted"
