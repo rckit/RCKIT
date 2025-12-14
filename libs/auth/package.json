@@ -76,7 +76,7 @@
     "url": "https://github.com/rckit/RCKIT.git",
     "directory": "libs/auth"
   },
-  "homepage": "https://github.com/rckit/RCKIT/tree/master/libs/auth",
+  "homepage": "https://github.com/rckit/RCKIT/tree/main/libs/auth",
   "bugs": "https://github.com/rckit/RCKIT/issues",
   "license": "MIT",
   "publishConfig": {

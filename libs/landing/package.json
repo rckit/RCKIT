@@ -62,7 +62,7 @@
     "url": "https://github.com/rckit/RCKIT.git",
     "directory": "libs/landing"
   },
-  "homepage": "https://github.com/rckit/RCKIT/tree/master/libs/landing",
+  "homepage": "https://github.com/rckit/RCKIT/tree/main/libs/landing",
   "bugs": "https://github.com/rckit/RCKIT/issues",
   "license": "MIT",
   "publishConfig": {

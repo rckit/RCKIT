@@ -82,7 +82,7 @@
     "url": "https://github.com/rckit/RCKIT.git",
     "directory": "libs/table"
   },
-  "homepage": "https://github.com/rckit/RCKIT/tree/master/libs/table",
+  "homepage": "https://github.com/rckit/RCKIT/tree/main/libs/table",
   "bugs": "https://github.com/rckit/RCKIT/issues",
   "license": "MIT",
   "publishConfig": {

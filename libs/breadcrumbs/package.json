@@ -67,7 +67,7 @@
     "url": "https://github.com/rckit/RCKIT.git",
     "directory": "libs/breadcrumbs"
   },
-  "homepage": "https://github.com/rckit/RCKIT/tree/master/libs/breadcrumbs",
+  "homepage": "https://github.com/rckit/RCKIT/tree/main/libs/breadcrumbs",
   "bugs": "https://github.com/rckit/RCKIT/issues",
   "license": "MIT",
   "publishConfig": {

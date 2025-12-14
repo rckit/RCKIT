@@ -68,7 +68,7 @@
     "url": "https://github.com/rckit/RCKIT.git",
     "directory": "libs/api-client"
   },
-  "homepage": "https://github.com/rckit/RCKIT/tree/master/libs/api-client",
+  "homepage": "https://github.com/rckit/RCKIT/tree/main/libs/api-client",
   "bugs": "https://github.com/rckit/RCKIT/issues",
   "license": "MIT",
   "publishConfig": {

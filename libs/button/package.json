@@ -69,7 +69,7 @@
     "url": "https://github.com/rckit/RCKIT.git",
     "directory": "libs/button"
   },
-  "homepage": "https://github.com/rckit/RCKIT/tree/master/libs/button",
+  "homepage": "https://github.com/rckit/RCKIT/tree/main/libs/button",
   "bugs": "https://github.com/rckit/RCKIT/issues",
   "license": "MIT",
   "publishConfig": {

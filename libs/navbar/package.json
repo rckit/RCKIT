@@ -71,7 +71,7 @@
     "url": "https://github.com/rckit/RCKIT.git",
     "directory": "libs/navbar"
   },
-  "homepage": "https://github.com/rckit/RCKIT/tree/master/libs/navbar",
+  "homepage": "https://github.com/rckit/RCKIT/tree/main/libs/navbar",
   "bugs": "https://github.com/rckit/RCKIT/issues",
   "license": "MIT",
   "publishConfig": {

@@ -60,7 +60,7 @@
     "url": "https://github.com/rckit/RCKIT.git",
     "directory": "libs/secret-checkbox"
   },
-  "homepage": "https://github.com/rckit/RCKIT/tree/master/libs/secret-checkbox",
+  "homepage": "https://github.com/rckit/RCKIT/tree/main/libs/secret-checkbox",
   "bugs": "https://github.com/rckit/RCKIT/issues",
   "license": "MIT",
   "publishConfig": {

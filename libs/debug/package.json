@@ -64,7 +64,7 @@
     "url": "https://github.com/rckit/RCKIT.git",
     "directory": "libs/debug"
   },
-  "homepage": "https://github.com/rckit/RCKIT/tree/master/libs/debug",
+  "homepage": "https://github.com/rckit/RCKIT/tree/main/libs/debug",
   "bugs": "https://github.com/rckit/RCKIT/issues",
   "license": "MIT",
   "publishConfig": {

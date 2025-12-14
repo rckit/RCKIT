@@ -3,14 +3,14 @@
 [![LSK logo](https://badgen.net/badge/icon/MADE%20BY%20LSK?icon=zeit&label&color=red&labelColor=red)](https://github.com/lskjs)
 [![NPM version](https://badgen.net/npm/v/@rckit/button)](https://www.npmjs.com/package/@rckit/button)
 [![NPM downloads](https://badgen.net/npm/dt/@rckit/button)](https://www.npmjs.com/package/@rckit/button)
-[![Package size](https://badgen.net/github/license/rckit/RCKIT)](https://github.com/rckit/RCKIT/blob/master/LICENSE)
+[![Package size](https://badgen.net/github/license/rckit/RCKIT)](https://github.com/rckit/RCKIT/blob/main/LICENSE)
 [![Ask us in Telegram](https://img.shields.io/badge/Ask%20us%20in-Telegram-brightblue.svg)](https://t.me/lskjschat)
 
 <div align="center">
   <p><strong>⚡️ Comprehensive collection of React components for fast development of web applications ⚡️</strong></p>
 </div>
 
-<img src="https://github.com/rckit/RCKIT/raw/master/docs/logo.png" align="right" width="120" height="120" />
+<img src="https://github.com/rckit/RCKIT/raw/main/docs/logo.png" align="right" width="120" height="120" />
 
 **🚀 Production Ready**: Battle-tested components used in production environments  
 **💎 TypeScript**: Full TypeScript support with strict type checking  

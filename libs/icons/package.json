@@ -63,7 +63,7 @@
     "url": "https://github.com/rckit/RCKIT.git",
     "directory": "libs/icons"
   },
-  "homepage": "https://github.com/rckit/RCKIT/tree/master/libs/icons",
+  "homepage": "https://github.com/rckit/RCKIT/tree/main/libs/icons",
   "bugs": "https://github.com/rckit/RCKIT/issues",
   "license": "MIT",
   "publishConfig": {

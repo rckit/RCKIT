@@ -60,7 +60,7 @@
     "url": "https://github.com/rckit/RCKIT.git",
     "directory": "libs/meta"
   },
-  "homepage": "https://github.com/rckit/RCKIT/tree/master/libs/meta",
+  "homepage": "https://github.com/rckit/RCKIT/tree/main/libs/meta",
   "bugs": "https://github.com/rckit/RCKIT/issues",
   "license": "MIT",
   "publishConfig": {

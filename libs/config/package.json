@@ -64,7 +64,7 @@
     "url": "https://github.com/rckit/RCKIT.git",
     "directory": "libs/config"
   },
-  "homepage": "https://github.com/rckit/RCKIT/tree/master/libs/config",
+  "homepage": "https://github.com/rckit/RCKIT/tree/main/libs/config",
   "bugs": "https://github.com/rckit/RCKIT/issues",
   "license": "MIT",
   "publishConfig": {

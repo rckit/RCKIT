@@ -70,7 +70,7 @@
     "url": "https://github.com/rckit/RCKIT.git",
     "directory": "libs/form"
   },
-  "homepage": "https://github.com/rckit/RCKIT/tree/master/libs/form",
+  "homepage": "https://github.com/rckit/RCKIT/tree/main/libs/form",
   "bugs": "https://github.com/rckit/RCKIT/issues",
   "license": "MIT",
   "publishConfig": {
